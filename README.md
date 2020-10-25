@@ -1,5 +1,5 @@
 # V_Store
-Front end of an Store that request products from a back-end api, witch's an other project of mine made in node.js
+Front-end of a Store that requests products from a back-end API, witch's another project of mine made in node.js
 <br>
 [click here to visit the back-end repository](https://github.com/VitorFigm/V-store-rest-api)
 ## [Visit the V Store](https://vitorfigm.github.io/React_V_Store/)
