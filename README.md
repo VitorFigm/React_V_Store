@@ -28,7 +28,7 @@ An old project of mine, front-end of a store that requests products from a back-
 <br>
 
 # Design made entirely by me
-No template was used to design this store
+The design was made with pure CSS, without any CSS framework.
 
 
 
