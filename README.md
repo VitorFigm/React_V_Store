@@ -27,9 +27,6 @@ An old project of mine, front-end of a store that requests products from a back-
 <br>
 <br>
 
-# Design made entirely by me
-The design was made with pure CSS, without any CSS framework.
-
 
 
 ## [Visit the V Store](https://vitorfigm.github.io/React_V_Store/)
